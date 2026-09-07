@@ -4,10 +4,12 @@ Performed automation testing using Selenium WebDriver and TestNG to automate and
 The automation source code and test execution evidence are included in this repository, with the screenshot showing 1 test passed successfully.
 
 
+
 Task 2 - Manual Testing
 
 Performed manual testing by creating and executing test cases, validating expected vs. actual results, and identifying defects. 
 Test cases and execution results are documented in the Excel sheet provided as evidence.
+
 
 
 Task 3: API Testing – Nimap Machine Test
